@@ -1,7 +1,7 @@
 # Go Vue Boilerplate
 
 ```
-git clone https://github.com/yourusername/go-vue-boilerplate.git
+git clone https://github.com/nickcheek/go-vue-boilerplate.git
 cd go-vue-boilerplate
 make install  # Install dependencies
 make dev      # Start development
